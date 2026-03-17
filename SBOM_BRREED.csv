@@ -1,0 +1,80 @@
+﻿Supplier Name,Component Name,Version of the Component,Other Unique Identifiers,Dependency Relationship,Author of SBOM Data,Timestamp
+Igor Pavlov,7-Zip 24.08 (x64),24.08,7-Zip,Application,BRREED,03/15/2026 07:45PM
+Adobe,Adobe Acrobat (64-bit),25.001.21288,,Application,BRREED,03/15/2026 07:45PM
+Adobe Systems Incorporated,Adobe Refresh Manager,1.8.0,,Dependency,BRREED,03/15/2026 07:45PM
+Famatech,Advanced IP Scanner 2.5.1,2.5.4594.1,,Application,BRREED,03/15/2026 07:45PM
+Respawn,Apex Legends,,Steam App 1172470,Application,BRREED,03/15/2026 07:45PM
+Argotronic eGbR,Argus Monitor,7.2.6.3066,ArgusMonitor,Application,BRREED,03/15/2026 07:45PM
+Kunos Simulazioni,Assetto Corsa,,Steam App 244210,Application,BRREED,03/15/2026 07:45PM
+Kunos Simulazioni,Assetto Corsa Competizione,,Steam App 805550,Application,BRREED,03/15/2026 07:45PM
+Balena Ltd. <hello@balena.io>,balenaEtcher,1.19.25,balena_etcher,Application,BRREED,03/15/2026 07:45PM
+Electronic Arts,Battlefield™ 6,1.0.411.20562,,Application,BRREED,03/15/2026 07:45PM
+Electronic Arts,Battlefield™ V,1.0.78.11385,,Application,BRREED,03/15/2026 07:45PM
+Bisq,Bisq,1.9.22,,Application,BRREED,03/15/2026 07:45PM
+Brave Software Inc,Brave,146.1.88.132,BraveSoftware Brave-Browser,Application,BRREED,03/15/2026 07:45PM
+Google LLC,Chrome Remote Desktop Host,133.0.6943.7,,Application,BRREED,03/15/2026 07:45PM
+Overwolf,CurseForge 1.295.0-29976,1.295.0-29976,,Application,BRREED,03/15/2026 07:45PM
+Discord Inc.,Discord,1.0.9228,Discord,Application,BRREED,03/15/2026 07:45PM
+Electronic Arts,EA app,13.658.3.6173,,Application,BRREED,03/15/2026 07:45PM
+AirVPN - https://airvpn.org,Eddie - VPN Tunnel,,AirVPN,Application,BRREED,03/15/2026 07:45PM
+"Epic Games, Inc.",Epic Games Launcher,1.3.142.0,,Application,BRREED,03/15/2026 07:45PM
+"Epic Games, Inc.",Epic Games Launcher Prerequisites (x64),1.0.0.0,,Application,BRREED,03/15/2026 07:45PM
+"Epic Games, Inc.",Epic Online Services,3.0.1,,Application,BRREED,03/15/2026 07:45PM
+Paradox Development Studio,Europa Universalis IV,,Steam App 236850,Application,BRREED,03/15/2026 07:45PM
+Exodus Movement Inc,Exodus,25.5.3,exodus,Application,BRREED,03/15/2026 07:45PM
+f.lux Software LLC,f.lux,4.134,Flux,Application,BRREED,03/15/2026 07:45PM
+Remi Mercier Software Inc,FanControl,251,,Application,BRREED,03/15/2026 07:45PM
+Playground Games,Forza Horizon 5,,Steam App 1551360,Application,BRREED,03/15/2026 07:45PM
+Geeks3D,Geeks3D FurMark 2.8.2.0 x64,2.8.2.0,,Application,BRREED,03/15/2026 07:45PM
+"Glorious, LLC",Glorious CORE,,,Application,BRREED,03/15/2026 07:45PM
+Greenshot,Greenshot 1.2.10.6,1.2.10.6,Greenshot_is1,Application,BRREED,03/15/2026 07:45PM
+HP Inc.,HP DeskJet 2800 series Basic Device Software,57.2.1683.23137,,DLL,BRREED,03/15/2026 07:45PM
+Oracle Corporation,Java 8 Update 431 (64-bit),8.0.4310.10,,Library,BRREED,03/15/2026 07:45PM
+Oracle Corporation,Java Auto Updater,2.8.431.10,,Application,BRREED,03/15/2026 07:45PM
+"Epic Games, Inc.",Launcher Prerequisites (x64),1.0.0.0,,Application,BRREED,03/15/2026 07:45PM
+Jeffrey Pfau,mGBA 0.10.4,0.10.4,mGBA_is1,Application,BRREED,03/15/2026 07:45PM
+Microsoft Corporation,Microsoft Edge,146.0.3856.59,Microsoft Edge,Application,BRREED,03/15/2026 07:45PM
+Microsoft Corporation,Microsoft Visual Studio Code (User),1.111.0,,Application,BRREED,03/15/2026 07:45PM
+Mozilla,Mozilla Firefox (x64 en-US),148.0.2,Mozilla Firefox,Application,BRREED,03/15/2026 07:45PM
+Mozilla,Mozilla Maintenance Service,127,MozillaMaintenanceService,Dependency,BRREED,03/15/2026 07:45PM
+MultiViewer for F1,MultiViewer for F1,1.36.2,MultiViewerForF1,Application,BRREED,03/15/2026 07:45PM
+"Electronic Arts, Inc.",Need for Speed™ Hot Pursuit Remastered,1.0.0.23890,,Application,BRREED,03/15/2026 07:45PM
+Notepad++ Team,Notepad++ (64-bit x64),8.9.2,Notepad++,Application,BRREED,03/15/2026 07:45PM
+The OpenSCAD Developers,OpenSCAD (remove only),2021.01,OpenSCAD,Library,BRREED,03/15/2026 07:45PM
+"OpenVPN, Inc.",OpenVPN 2.7.0-I017 amd64,2.7.017,,Application,BRREED,03/15/2026 07:45PM
+Oracle and/or its affiliates,Oracle VirtualBox 7.1.4,7.1.4,,Application,BRREED,03/15/2026 07:45PM
+Simon Tatham,PuTTY release 0.81 (64-bit),0.81.0.0,,Application,BRREED,03/15/2026 07:45PM
+Python Software Foundation,Python 3.13.0 (64-bit),3.13.150.0,,Library,BRREED,03/15/2026 07:45PM
+R Core Team,R for Windows 4.5.2,4.5.2,R for Windows 4.5.2_is1,Library,BRREED,03/15/2026 07:45PM
+,RaceHub™ version 4.2.1,4.2.1,,Application,BRREED,03/15/2026 07:45PM
+Rons Place Software Inc.,Rons Data Edit 2025.6.18.1343,2025.6.18.1343,Rons Data Edit_is1,Application,BRREED,03/15/2026 07:45PM
+Posit Software,RStudio,2025.09.2+418,RStudio,Application,BRREED,03/15/2026 07:45PM
+"2K Games, Inc.",Sid Meier's Civilization V,,steam app 8930,Application,BRREED,03/15/2026 07:45PM
+Firaxis Games,Sid Meier's Civilization VII,,Steam App 1295660,Application,BRREED,03/15/2026 07:45PM
+Spotify AB,Spotify,1.2.84.476.ga1ff6607,Spotify,Application,BRREED,03/15/2026 07:45PM
+Valve Corporation,Steam,2.10.91.91,Steam,Application,BRREED,03/15/2026 07:45PM
+Ryu Ga Gotoku Studio,Super Monkey Ball Banana Mania,,Steam App 1316910,Application,BRREED,03/15/2026 07:45PM
+Modern Dream,The Typing of The Dead: Overkill,,Steam App 246580,Application,BRREED,03/15/2026 07:45PM
+Respawn Entertainment,Titanfall® 2,,Steam App 1237970,Application,BRREED,03/15/2026 07:45PM
+"Electronic Arts, Inc.",Titanfall™ 2,,,Application,BRREED,03/15/2026 07:45PM
+Transmission Project,Transmission 4.0.6 (38c164933e) (x64),4.0.6,,Application,BRREED,03/15/2026 07:45PM
+SatoshiLabs,Trezor Suite 26.1.2,26.1.2,,Application,BRREED,03/15/2026 07:45PM
+Ubisoft,Ubisoft Connect,159.2.11504,Uplay,Application,BRREED,03/15/2026 07:45PM
+Veeam Software Group GmbH,Veeam Agent for Microsoft Windows,6.1.2.134,,Application,BRREED,03/15/2026 07:45PM
+VideoLAN,VLC media player,3.0.21,VLC media player,Application,BRREED,03/15/2026 07:45PM
+WinDirStat Team,WinDirStat,2.0.3.832,,Application,BRREED,03/15/2026 07:45PM
+win.rar GmbH,WinRAR 6.02 (64-bit),6.02.0,WinRAR archiver,Application,BRREED,03/15/2026 07:45PM
+"The Wireshark developer community, https://www.wireshark.org",Wireshark 4.0.1 64-bit,4.0.1,Wireshark,Application,BRREED,03/15/2026 07:45PM
+"KingsIsle Entertainment, Inc.",Wizard101,1.0.0,,Application,BRREED,03/15/2026 07:45PM
+"Zoom Communications, Inc.",Zoom Workplace,6.7.8 (32670),ZoomUMX,Application,BRREED,03/15/2026 07:45PM
+NVIDIA Corporation,NVIDIA AIUser Container,1.44,,DLL,BRREED,03/15/2026 07:45PM
+NVIDIA Corporation,NVIDIA App 11.0.5.420,11.0.5.420,,DLL,BRREED,03/15/2026 07:45PM
+Python Software Foundation,Python 3.13.0 (64-bit),3.13.150.0,,Application,BRREED,03/15/2026 07:45PM
+Python Software Foundation,Python 3.13.0 Core Interpreter (64-bit),3.13.150.0,,DLL,BRREED,03/15/2026 07:45PM
+Python Software Foundation,Python 3.13.0 Development Libraries (64-bit),3.13.150.0,,DLL,BRREED,03/15/2026 07:45PM
+Python Software Foundation,Python 3.13.0 Documentation (64-bit),3.13.150.0,,DLL,BRREED,03/15/2026 07:45PM
+Python Software Foundation,Python 3.13.0 Executables (64-bit),3.13.150.0,,DLL,BRREED,03/15/2026 07:45PM
+Python Software Foundation,Python 3.13.0 pip Bootstrap (64-bit),3.13.150.0,,DLL,BRREED,03/15/2026 07:45PM
+Python Software Foundation,Python 3.13.0 Standard Library (64-bit),3.13.150.0,,DLL,BRREED,03/15/2026 07:45PM
+Python Software Foundation,Python 3.13.0 Tcl/Tk Support (64-bit),3.13.150.0,,DLL,BRREED,03/15/2026 07:45PM
+Python Software Foundation,Python 3.13.0 Test Suite (64-bit),3.13.150.0,,DLL,BRREED,03/15/2026 07:45PM
